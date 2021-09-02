@@ -9,3 +9,5 @@ node example/run.js // 启动测试任务，生成dist.js
 node example/dist.js // 运行产物，查看打包后产物是否正常运行
 
 ```
+
+参考文章： https://mp.weixin.qq.com/s/vpQq3FcJuQkKXvxsq8c9Bw
